@@ -1,6 +1,6 @@
 # RainbowQR
 
-[![RainbowQR](https://raw.githubusercontent.com/ytisf/RainbowQR/main/QRSample.png)](https://raw.githubusercontent.com/ytisf/RainbowQR/main/QRSample.png)
+![RainbowQR](https://raw.githubusercontent.com/ytisf/RainbowQR/main/QRSample.png)
 
 ## Abstract
 QR codes are such versatile tool in relaying information. This project is intended to examine some 'unorthodox' notions of evaluating various types of usage. The first attempt created here is combining a data set of THREE distinct QR codes into one QR code based on the significance of a color bit. 
